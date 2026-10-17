@@ -1,0 +1,2 @@
+# This file keeps the models/ directory in git.
+# Run `python train_model.py` to generate model.pkl here before deploying.
